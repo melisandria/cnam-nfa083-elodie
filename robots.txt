@@ -1,0 +1,6 @@
+# fichier pour les robots du site https://examennfa083.000webhostapp.com/
+User-Agent: * 
+Disallow: inc
+Allow: /*.css?*
+
+Sitemap : https://examennfa083.000webhostapp.com/sitemap.xml
