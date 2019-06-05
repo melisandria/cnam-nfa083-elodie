@@ -11,8 +11,5 @@
   <loc>https://examennfa083.000webhostapp.com/index.php </loc>
   <priority> 1.00 </priority>
 </url>
-<url>
-  <loc> https://examennfa083.000webhostapp.com/question.php </loc>
-  <priority> 0.80 </priority>
-</url>
+
 </urlset>
